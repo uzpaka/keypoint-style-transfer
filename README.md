@@ -83,14 +83,6 @@ With D2-Net descriptors only (176 inliers):
 With our method (472 inliers):
 
 ![Screenshot](precomputed_output_results/new_matches_input_images_dnim3.jpg_input_images_dnim4.jpg_ninliers_472.png)
-
-With D2-Net descriptors only (130 inliers):
-
-![Screenshot](precomputed_output_results/original_matches_input_images_aachen1.jpg_input_images_aachen2.jpg_ninliers_130)
-
-With our method (258 inliers):
-
-![Screenshot](precomputed_output_results/new_matches_input_images_aachen1.jpg_input_images_aachen2.jpg_ninliers_258.png)
  
 ## BibTeX
 
