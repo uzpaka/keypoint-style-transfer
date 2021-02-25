@@ -6,6 +6,8 @@ This repository contains the implementation of the following paper:
 "Style Transfer for Keypoint Matching under Adverse Conditions".
 Ali Uzpak, Abdelaziz Dejlouah, Simone Schaub-Meyer. 3DV 2020.
 ```
+[[Link to PDF]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-ivc/mtc-dam/documents/Publications/Style%20Transfer%20for%20Keypoint%20Matching%20under%20Adverse%20Conditions%203DV%202020.pdf)
+
 This code is based on [D2-Net](https://github.com/mihaidusmanu/d2-net), [R2D2](https://github.com/naver/r2d2) and [Fast Style Transfer](https://github.com/rrmina/fast-neural-style-pytorch).
     
 ## Requirements
